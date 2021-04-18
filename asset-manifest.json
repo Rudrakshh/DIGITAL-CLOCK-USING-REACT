@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DIGITAL-CLOCK-USING-REACT/static/css/main.5912bd8d.chunk.css",
+    "main.js": "/DIGITAL-CLOCK-USING-REACT/static/js/main.be927af7.chunk.js",
+    "main.js.map": "/DIGITAL-CLOCK-USING-REACT/static/js/main.be927af7.chunk.js.map",
+    "runtime-main.js": "/DIGITAL-CLOCK-USING-REACT/static/js/runtime-main.c9f64f74.js",
+    "runtime-main.js.map": "/DIGITAL-CLOCK-USING-REACT/static/js/runtime-main.c9f64f74.js.map",
+    "static/js/2.60d4e706.chunk.js": "/DIGITAL-CLOCK-USING-REACT/static/js/2.60d4e706.chunk.js",
+    "static/js/2.60d4e706.chunk.js.map": "/DIGITAL-CLOCK-USING-REACT/static/js/2.60d4e706.chunk.js.map",
+    "static/js/3.f918ac6e.chunk.js": "/DIGITAL-CLOCK-USING-REACT/static/js/3.f918ac6e.chunk.js",
+    "static/js/3.f918ac6e.chunk.js.map": "/DIGITAL-CLOCK-USING-REACT/static/js/3.f918ac6e.chunk.js.map",
+    "index.html": "/DIGITAL-CLOCK-USING-REACT/index.html",
+    "static/css/main.5912bd8d.chunk.css.map": "/DIGITAL-CLOCK-USING-REACT/static/css/main.5912bd8d.chunk.css.map",
+    "static/js/2.60d4e706.chunk.js.LICENSE.txt": "/DIGITAL-CLOCK-USING-REACT/static/js/2.60d4e706.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9f64f74.js",
+    "static/js/2.60d4e706.chunk.js",
+    "static/css/main.5912bd8d.chunk.css",
+    "static/js/main.be927af7.chunk.js"
+  ]
+}
